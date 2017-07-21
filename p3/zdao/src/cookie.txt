@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://www.netscape.com/newsref/std/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.www.zdao.com	TRUE	/	FALSE	1815722229	_cpcl	596db5f690419
+www.zdao.com	FALSE	/	FALSE		JSESSID	514jrg6nj7regm3ptm4f5r0f76

@@ -1,0 +1,1923 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" type="text/css" href="https://static.intsig.net/bs/css/compressed/common_1499060269.css" />
+<link rel="stylesheet" type="text/css" href="https://static.intsig.net/bs/css/compressed/company_index_1499734394.css" />
+<title>张家港华夏帽业有限公司官网、地址、联系电话、信用等企业详细信息 - 早稻网</title>
+    <meta name="description" content="张家港华夏帽业有限公司官网、地址、联系方式、电话、员工、知识产权、工商注册等详细信息。要了解产品和服务怎么样？找董事长、CEO业务合作？上早稻网解决全部问题。" />
+    <meta name="keywords" content="张家港华夏帽业有限公司官网，张家港华夏帽业有限公司地址，张家港华夏帽业有限公司电话，张家港华夏帽业有限公司采购人员，张家港华夏帽业有限公司总经理" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+	<meta name="renderer" content="webkit"/>
+			<meta http-equiv="x-dns-prefetch-control" content="on" />
+        		    <link rel="dns-prefetch" href="https://hm.baidu.com" />
+				<link rel="dns-prefetch" href="https://static.intsig.net" />
+					<link rel="dns-prefetch" href="https://ss.intsig.net" />
+					<link rel="shortcut icon" href="https://www.zdao.com/favicon.ico" />
+	        <link rel="canonical" href="https://www.zdao.com" />
+		<meta name="format-detection" content="email=no">
+	<meta name="format-detection" content="telephone=no">
+	<meta property="og:title" content="张家港华夏帽业有限公司官网、地址、联系电话、信用等企业详细信息 - 早稻网"/>
+	<meta property="og:description" content="张家港华夏帽业有限公司官网、地址、联系方式、电话、员工、知识产权、工商注册等详细信息。要了解产品和服务怎么样？找董事长、CEO业务合作？上早稻网解决全部问题。"/>
+	<meta property="og:image" content="">
+		<script nonce="b54aeece0da2fadc7abf1c6809955929">var log_config={"app_id":"fefaaeb52e24835ed1fb03cc038dbf6d","user_id":"516865549","product_name":"zdao","app_version":"1.0.0","client_id":"596f587e0ec1b","env":"ONLINE","from":""};</script></head>
+<body>
+<input type="hidden" value="16e08e1ac9fc0a68ccecf8be9093d0ab" id="csrf_token" />
+<input type="hidden" id="is_login" value="1"/>
+<input type="hidden" id="pri" value="0"/>
+<input type="hidden" id="claim" value="0"/>
+<input type="hidden" id="head_height" value="66"/>
+
+<div class="head " id="head">
+	<div class="head_content" id="header_content">
+		<div class="inner ib">
+			<a class="logo h1" href="/" data-stat-key="header_logo">
+				<i class="icon_zdao"></i>
+			</a>
+										<div class="search_box ib">
+					<div class="input_wrapper">
+						<input class="search_input" autocomplete="off" id="search_input" type="text"
+						       value="" sg-placeholder="搜索公司/产品/业务"/>
+					</div>
+					<div class="btn_search" id="btn_search" data-stat-key="header_search_btn">
+						<div class="icon_search"></div>
+					</div>
+					<div class="search_recommend" id="search_recommend"></div>
+				</div>
+									<div class="advance_search link" id="btn_advance_search" data-stat-key="header_advance_search">
+						高级搜索
+					</div>
+										<div class="tap_box ib">
+									<div class="tap_link new_product" data-stat-key="new_product">发布产品</div>
+										<a class="tap_link" href="/qi/autoredirect" rel="nofollow"
+					   data-stat-key="header_qiye_member">会员特权</a>
+																<a class="tap_link" href="/qi/payprivelige" rel="nofollow"
+						   data-stat-key="header_qiye_member">VIP会员</a>
+																								<a class="tap_link msg_link" href="/message/list" rel="nofollow" data-stat-key="header_message_list">
+							消息
+							<div class="flag_new_msg" id="flag_new_msg"></div>
+						</a>
+						<div class="top_link account" id="account">
+							<div class="person_link ib">
+																	<image class="head_avatar" src="https://ss.intsig.net/yemai/vip/camfs/qxb/11111_c4ba6220eff96e059010fe980a55882f.t100u"></image>
+															</div>
+							<div class="show_more">
+								<div class="show_more_header">
+																			<img class="show_more_avatar" src="https://ss.intsig.net/yemai/vip/camfs/qxb/11111_c4ba6220eff96e059010fe980a55882f.t100u">
+																		<div class="show_more_right">
+										<div class="account_info hide_long">于总</div>
+										<a data-stat-key="header_show_profile" class="btn blue_white view_profile" href="/account/main" rel="nofollow">查看个人主页</a>
+									</div>
+								</div>
+																<a class="link" href="/account/security" data-stat-key="account_setting" rel="nofollow">账户设置</a>
+								<a class="link logout" href="/user/logout" data-stat-key="header_logout" rel="nofollow">登出</a>
+							</div>
+						</div>
+												</div>
+		</div>
+	</div>
+</div>
+<script nonce="b54aeece0da2fadc7abf1c6809955929">var config={"company_id":"64507148-789c-480b-a89e-b99cee9ff6fa","company_name":"\u5f20\u5bb6\u6e2f\u534e\u590f\u5e3d\u4e1a\u6709\u9650\u516c\u53f8","is_login":true,"sg_config":{"title":"","resource":[],"routes":{"":"bi_baseinfo","bi\/baseinfo":"bi_baseinfo","bi\/changelist":"bi_changelist","bi\/investment_relation":"bi_investment_relation","bi\/annual_report_list":"bi_annual_report_list","ip":"ip","po":"po","mi":"mi"},"error":{"404":"home"}},"my_company_name":"\u9752\u725b\uff08\u5317\u4eac\uff09\u6280\u672f\u6709\u9650\u516c\u53f8","my_company_id":"19ce5125-8e07-4508-a7ae-0ad27196a479","status":"0","claim_status":4};</script>	<div id="static_url" style="display: none">https://static.intsig.net</div>
+	<div id="page_config" style="display: none"></div>
+<div class="outer">
+	<div class="main_bg">
+		<div class="bg_mask"></div>
+	</div>
+	<div class="content" id="content" style="display: none;">
+		<div class="company_detail" id="company_detail">
+			<div class="col_left">
+				<div sg-view="company_leftinfo"></div>
+				<div sg-view="contact_list">
+					<param id="show_total" value="0" type="int">
+					<param id="show_map" value="1" type="int">
+				</div>
+				<div sg-view="relation_company"></div>
+			</div>
+			<div class="col_right">
+				<div sg-view="base_info"></div>
+				<div class="section person_card" sg-view="vm_person_list">
+					<param id="show_title" value="1" type="int">
+					<param id="show_filter" value="0" type="int">
+					<param id="show_more" value="1" type="int">
+				</div>
+				<div sg-view="client_box"></div>
+				<div sg-view="news"></div>
+				<div class="nax_box">
+					<div id="nav_menu" class="nav_menu" sg-view="nav_menu"></div>
+				</div>
+				<div class="main" id="main"></div>
+				<div id="verify_entry"></div>
+			</div>
+		</div>
+	</div>
+	<div class="out_limit" id="out_limit_box" style="display: none">
+		<div class="out_limit_box">
+			<div class="normal_limit">
+				<i class="icon_alert"></i>
+				<div class="out_limit_text">
+					您今天访问次数过多，请明天再使用<br/>
+					如有问题，可以联系<a class="link" href="mailto:support@zdao.com">support@zdao.com</a>
+				</div>
+			</div>
+			<div class="no_pri_limit">
+				<i class="icon_alert_new limit_icon"></i>
+				<div class="out_limit_text">您每日企业主页查看次数已达到上限</div>
+				<div class="out_limit_desc">认证职业身份即可升级搜索次数和企业主页<br/>查看次数，并享受更多认证会员专享特权</div>
+				<a class="btn blue btn_claim" target="_blank" href="/site/claimbenefits">立即开通</a>
+			</div>
+		</div>
+	</div>
+	<div class="loading" id="loading"></div>
+</div>
+<script type="text/template" id="base_info" class="section base_info">
+{{if !is_login && extend_info && extend_info.with_description }}
+	<h2 class="section_header">企业简介</h2>
+	<div class="login_tip_text"><a data-stat-key="go_to_login" class="tip_login">登录</a>后查看该企业的所属行业、主营业务、企业规模、年营业额等更多维度信息</div>
+{{else}}
+{{if _id === my_company_id || !empty_info}}
+	<h2 class="section_header">企业简介
+		{{if !claimed_company}}
+		<div class="btn blue_white no_margin btn_goto_claim" ><i class="icon_edit">&nbsp;</i>完善企业信息</div>
+		{{else if _id === my_company_id}}
+		<a class="btn blue_white no_margin" data-stat-key="modify_company_info" href="/qi/indexnew?#!company_info_manage"><i class="icon_edit">&nbsp;</i>编辑企业信息</a>
+		{{/if}}
+	</h2>
+	{{if empty_info}}
+	<div class="company_scale"></div>
+	{{else}}
+	<div class="company_scale">
+		{{if extend_info && extend_info.scale}}
+		<div class="company_info_item">
+			<span class="company_info_name">企业规模</span>
+			{{extend_info.scale == '1000+'?'1000人以上':extend_info.scale}}
+		</div>
+		{{/if}}
+		{{if extend_info && extend_info.revenue}}
+		<div class="company_info_item">
+			<span class="company_info_name">年营业额</span>
+			{{company_revenue[extend_info.revenue]}}
+		</div>
+		{{/if}}
+		{{if extend_info && extend_info.industries}}
+		<div class="company_info_item">
+			<span class="company_info_name">所属行业</span>
+			{{each convert(extend_info.industries) as item}}
+			<a href="/l/b{{item.code}}" target="_blank">{{item.name}}&nbsp;</a>
+			{{/each}}
+		</div>
+		{{/if}}
+		{{if extend_info && extend_info.business && extend_info.business.length}}
+		<div class="company_info_item">
+			<span class="company_info_name">主营业务</span>
+			{{each extend_info.business as item index}}
+			<a data-stat-key="main_product_and_business" class="business_inner" target="_blank" href="/site/search?keywords={{encode(item)}}">{{item}}</a>
+			{{/each}}
+		</div>
+		{{/if}}
+		{{if extend_info && extend_info.description}}
+		<div id="company_intro" class="company_info_item pre"><span class="company_info_name">详细介绍</span>{{extend_info.description}}</div>
+		<div class="read_more" id="read_more" style="display:none;">查看更多</div>
+		{{/if}}			
+	</div>
+	{{/if}}
+{{/if}}
+{{/if}}
+{{if extend_info }}
+	<h2 class="section_header">产品{{extend_info.product_info&&extend_info.product_num>0?'('+extend_info.product_num+')':''}}
+		{{if extend_info.product_num}}<a class="show_total" href="/product/allproduct?cid={{_id}}" data-stat-key="view_more_product">查看更多</a>{{/if}}
+		{{if _id === my_company_id}}
+		{{if !claimed_company}}
+			<div class="btn blue_white {{extend_info.product_num?'':'no_margin'}} btn_goto_claim" ><i class="icon_pro">&nbsp;</i>发布产品</div>
+		{{else}}
+			<a class="btn blue_white {{extend_info.product_num?'':'no_margin'}}" href="/product/edit"  data-stat-key="public_product"><i class="icon_pro">&nbsp;</i>发布产品</a>
+		{{/if}}
+		{{/if}}
+	</h2>
+	{{ no_product = !extend_info.product_info||!extend_info.product_num}}
+	<div class="product_box ib">
+		{{if no_product}}
+			<p class="empty_tip">暂无信息</p>
+		{{else}}
+		{{each extend_info.product_info as item index}}
+		<div class="product_item  {{if index%p_num == p_num - 1}}no_margin{{/if}}">
+		<a data-stat-key="product_item" class="product_url" target="_blank" 
+			title="{{item.pname}}" 
+			href="/product/detail?company_id=64507148-789c-480b-a89e-b99cee9ff6fa&product_id={{item.pid}}" {{if index >= p_num}}style="display:none;"{{/if}}>
+			{{if item.purl && item.purl.length}}
+			<div class="img_product_wrapper">
+				<img class="product_img" sg-src-type="full" sg-src="https://ss.intsig.net/yemai/vip/camfs/qxb/{{item.purl}}.t640u">
+			</div>
+			{{else}}
+			<div class="icon_nopic"></div>
+			{{/if}}
+		</a>
+		{{if item.creator&&item.creator.length}}
+		<span class="product_author">发布者  
+			<a href="/account/main?id={{item.creator_id}}&utype={{item['utype']||'0'}}" target="_blank" class="hide_long">{{item.creator}}
+			</a>
+			{{if item.cauth==1}}<i class="icon_vip"></i>{{/if}}
+		</span>
+		{{/if}}
+		<a href="/product/detail?company_id=64507148-789c-480b-a89e-b99cee9ff6fa&product_id={{item.pid}}" target="_blank"  class="product_info">
+			<p class="name">{{item.pname}}</p>
+			{{if item.price && item.price.length}}<p class="price">{{item.price}}</p>{{/if}}
+			
+		</a>
+		</div>
+		{{/each}}
+		{{/if}}
+	</div>
+	{{/if}}
+</script>
+
+<script class="p_biarl" type="text/template" id="bi_annual_report_list">
+	{{if annual_report_list && annual_report_list.length}}
+	<div class="menu_list_sub menu_anchor ar_years ib">
+		{{each annual_report_list as item}}
+		<div class="menu_sub" data-value="{{item.report_year}}">{{item.report_year}}</div>
+		{{/each}}
+	</div>
+	<div id="bi_annual_report"></div>
+	{{else}}
+	<div sg-view="no_data"></div>
+	{{/if}}
+</script>
+<script type="text/template" id="bi_annual_report">
+	<div class="p_title_wrapper first">
+		<div class="p_title">企业基本信息</div>
+		<div class="p_title_line"></div>
+	</div>
+	<table class="table_bordered">
+		<tr>
+			<td class="tb_label">注册号</td>
+			<td>{{reg_no || '-'}}</td>
+			<td class="tb_label">企业名称</td>
+			<td>{{name}}</td>
+		</tr>
+		<tr>
+			<td class="tb_label">从业人数</td>
+			<td>{{collegues_num || '-'}}</td>
+			<td class="tb_label">经营状态</td>
+			<td>{{status || '-'}}</td>
+		</tr>
+		<tr>
+			<td class="tb_label">本年度是否股权转让</td>
+			<td>{{if_invest || '-'}}</td>
+			<td class="tb_label">企业是否有投资或购买其他公司股权</td>
+			<td>{{if_equity || '-'}}</td>
+		</tr>
+		<tr>
+			<td class="tb_label">电子邮箱</td>
+			<td>{{if contacts && contacts.items && contacts.items.email}}<a class="link" href="mailto:{{contacts.items.email}}">{{contacts.items.email}}</a>{{else}}-{{/if}}</td>
+			<td class="tb_label">企业联系电话</td>
+			<td>{{if contacts && contacts.items && contacts.items.telephone}}{{contacts.items.telephone}}{{else}}-{{/if}}</td>
+		</tr>
+		<tr>
+			<td class="tb_label">是否有网站或网店</td>
+			<td>{{if websites && websites.if_valid}}是{{else}}否{{/if}}</td>
+			<td class="tb_label">企业通信地址</td>
+			<td>{{if contacts && contacts.items && contacts.items.address}}<a class="link" href="http://api.map.baidu.com/geocoder?address={{encodeURIComponent(trim(contacts.items.address))}}&output=html&src=IntSig|CamCard" target="_blank">{{contacts.items.address}}</a>{{else}}-{{/if}}</td>
+		</tr>
+	</table>
+	<div class="p_title_wrapper first">
+		<div class="p_title">网站或网店信息</div>
+		<div class="p_title_line"></div>
+	</div>
+	{{if websites && websites.if_valid}}
+	<table class="table_normal table_website">
+		<tr>
+			<th class="ws_type">类型</th>
+			<th class="ws_name">名称</th>
+			<th class="ws_website">网址</th>
+		</tr>
+		{{each websites.items as website}}
+		<tr>
+			<td>{{website.web_type}}</td>
+			<td>{{website.web_name}}</td>
+			<td><a class="link" href="{{fixUrl(website.web_url)}}"  target="_blank">{{website.web_url}}</a></td>
+		</tr>
+		{{/each}}
+	</table>
+	{{else}}
+	<div sg-view="no_data"></div>
+	{{/if}}
+	<div class="p_title_wrapper first">
+		<div class="p_title">股东及出资信息</div>
+		<div class="p_title_line"></div>
+	</div>
+	{{if partners && partners.if_valid}}
+	<table class="table_normal table_shareholder">
+		<tr>
+			<th class="sh_name">股东名称</th>
+			<th class="sh_subcribe">认缴出资额(万元)</th>
+			<th class="sh_paid">实缴出资额(万元)</th>
+		</tr>
+		{{each partners.items as partner}}
+		<tr>
+			{{if partner.eid}}
+			<td><a target="_blank" href="/company/{{partner.eid}}">{{partner.stock_name}}</a></td>
+			{{else}}
+			<td>{{partner.stock_name}}</td>
+			{{/if}}
+			<td>
+				{{each partner.should_capi_items as should_capi}}
+				<div>
+					{{should_capi.shoud_capi}}
+					<br>
+					<div class="sh_date">
+						{{should_capi.should_capi_date}}
+					</div>
+				</div>
+				{{/each}}
+			</td>
+			<td>
+				{{each partner.real_capi_items as real_capi}}
+				<div>
+					{{real_capi.real_capi}}
+					<br>
+					<div class="sh_date">
+						{{real_capi.real_capi_date}}
+					</div>
+				</div>
+				{{/each}}
+			</td>
+		</tr>
+		{{/each}}
+	</table>
+	{{else}}
+	<div sg-view="no_data"></div>
+	{{/if}}
+	<div class="p_title_wrapper first">
+		<div class="p_title">对外投资信息</div>
+		<div class="p_title_line"></div>
+	</div>
+	{{if invest_items && invest_items.if_valid}}
+	<table class="table_normal table_investment_relation">
+		<tr>
+			<th class="ir_name">投资设立或购买股权境内企业名称</th>
+			<th class="ir_code">企业注册号</th>
+		</tr>
+		{{each invest_items.items as invest}}
+		<tr>
+			<td>{{if invest.eid}}<a class="link" href="/company/{{invest.eid}}" target="_blank">{{invest.invest_name}}</a>{{else}}{{invest.invest_name}}{{/if}}</td>
+			<td>{{invest.invest_reg_no}}</td>
+		</tr>
+		{{/each}}
+	</table>
+	{{else}}
+	<div sg-view="no_data"></div>
+	{{/if}}
+	<div class="p_title_wrapper first">
+		<div class="p_title">股东股权转让</div>
+		<div class="p_title_line"></div>
+	</div>
+	{{if stock_changes && stock_changes.if_valid}}
+	<table class="table_normal table_holderchange">
+		<tr>
+			<th class="hc_name">股东</th>
+			<th class="hc_before">变更前股权比例</th>
+			<th class="hc_after">变更后股权比例</th>
+			<th class="hc_date">变更日期</th>
+		</tr>
+		{{each stock_changes.items as stock_change}}
+		<tr>
+			<td>{{stock_change.name}}</td>
+			<td>{{stock_change.before_content || '-'}}</td>
+			<td>{{stock_change.after_content || '-'}}</td>
+			<td>{{stock_change.change_date}}</td>
+		</tr>
+		{{/each}}
+	</table>
+	{{else}}
+	<div sg-view="no_data"></div>
+	{{/if}}
+	<div class="p_title_wrapper first">
+		<div class="p_title">企业资产状况信息</div>
+		<div class="p_title_line"></div>
+	</div>
+	<table class="table_bordered">
+		<tr>
+			<td class="tb_label">资产总额</td>
+			<td>{{total_equity || '-'}}</td>
+			<td class="tb_label">所有者权益合计</td>
+			<td>{{profit_reta || '-'}}</td>
+		</tr>
+		<tr>
+			<td class="tb_label">营业总收入</td>
+			<td>{{sale_income || '-'}}</td>
+			<td class="tb_label">利润总额</td>
+			<td>{{profit_total || '-'}}</td>
+		</tr>
+		<tr>
+			<td class="tb_label">营业总收入中主营业务收入</td>
+			<td>{{serv_fare_income || '-'}}</td>
+			<td class="tb_label">净利润</td>
+			<td>{{net_amount || '-'}}</td>
+		</tr>
+		<tr>
+			<td class="tb_label">纳税总额</td>
+			<td>{{tax_total || '-'}}</td>
+			<td class="tb_label">负债总额</td>
+			<td>{{debit_amount || '-'}}</td>
+		</tr>
+	</table>
+</script><script class="p_bibi" type="text/template" id="bi_baseinfo">
+	<table class="table_bordered">
+		<tr>
+			<td class="tb_label">社会统一信用码：</td>
+			<td>{{credit_no||'-'}}</td>
+			<td class="tb_label">组织机构代码：</td>
+			<td>{{org_no||'-'}}</td>
+		</tr>
+		<tr>
+			<td class="tb_label">注册号：</td>
+			<td>{{reg_no||'-'}}</td>
+			<td class="tb_label">经营状态：</td>
+			<td>{{status||'-'}}</td>
+		</tr>
+		<tr>
+			<td class="tb_label">公司类型：</td>
+			<td>{{econ_kind||'-'}}</td>
+			<td class="tb_label">成立日期：</td>
+			<td>{{start_date||'-'}}</td>
+		</tr>
+		<tr>
+			<td class="tb_label">法定代表人：</td>
+			<td>{{oper_name||'-'}}</td>
+			<td class="tb_label">	营业期限：</td>
+			<td>{{term_start||'-'}} - -</td>
+		</tr>
+		<tr>
+			<td class="tb_label">注册资本：</td>
+			<td>{{regist_capi||'-'}}</td>
+			<td class="tb_label">发照日期：</td>
+			<td>{{check_date||'-'}}</td>
+		</tr>
+		<tr>
+			<td class="tb_label">登记机关：</td>
+			<td colspan="3">{{belong_org||'-'}}</td>
+		</tr>
+		<tr>
+			<td class="tb_label">企业地址：</td>
+			<td colspan="3">{{addresses||'-'}}
+			</td>
+		</tr>
+		<tr>
+			<td class="tb_label">经营范围：</td>
+			<td colspan="3">{{scope||'-'}}</td>
+		</tr>
+	</table>
+	<div class="p_title_wrapper">
+		<div class="p_title">股东信息</div>
+		<div class="p_title_line"></div>
+	</div>
+	{{if partners && partners.length}}
+	<table class="table_normal table_shareholder">
+		<tr>
+			<th class="sh_type">股东类型</th>
+			<th class="sh_name">股东</th>
+			<th class="sh_subcribe">认缴出资(金额/时间)</th>
+			<th class="sh_paid">实缴出资(金额/时间)</th>
+		</tr>
+		{{each partners as i}}
+		<tr>
+			<td>{{i.stock_type}}</td>
+			{{if i.eid}}
+			<td><a target="_blank" href="/company/{{i.eid}}">{{i.stock_name}}</a></td>
+			{{else}}
+			<td>{{i.stock_name}}</td>
+			{{/if}}
+			{{if i.should_capi_items && i.should_capi_items.length}}
+			<td>{{i.should_capi_items.shoud_capi}}<br>{{i.should_capi_items.should_capi_date||'-'}}</td>
+			{{else}}
+			<td>-</td>
+			{{/if}}
+			{{if i.real_capi_items && i.real_capi_items.length}}
+			<td>{{i.real_capi_items.shoud_capi}}<br>{{i.real_capi_items.real_capi_date||'-'}}</td>
+			{{else}}
+			<td>-</td>
+			{{/if}}
+		</tr>
+		{{/each}}
+	</table>
+	{{else}}
+	<div sg-view="no_data"></div>
+	{{/if}}
+	<div class="p_title_wrapper">
+		<div class="p_title">主要人员</div>
+		<div class="p_title_line"></div>
+	</div>
+	{{if employees && employees.length}}
+	<table class="table_bordered">
+		{{each employees as i}}
+		<tr>
+		<td class="tb_label">{{i[0].job_title||'-'}}</td>
+		<td>{{i[0].name}}</td>
+		{{if i[1]}}
+		<td class="tb_label">{{i[1].job_title||'-'}}</td>
+		<td>{{i[1].name}}</td>
+		{{/if}}
+		</tr>
+		{{/each}}
+	</table>
+	{{else}}
+	<div sg-view="no_data"></div>
+	{{/if}}
+</script><script type="text/template" id="client_box" class="section">
+{{if (client_list && client_list.length) || is_my_company}}
+	<h2 class="section_header">主要客户
+		{{if is_my_company}}
+		{{if !has_verified}}
+			<div class="btn blue_white no_margin btn_goto_claim" ><i class="icon_plus">&nbsp;</i>添加主要客户</div>
+		{{else}}
+		<a class="btn blue_white no_margin" href="/qi/indexnew?#!company_info_manage" data-stat-key="add_client"><i class="icon_plus">&nbsp;</i>添加主要客户</a>
+		{{/if}}
+		{{/if}}
+	</h2>
+	{{if (client_list && client_list.length)}}
+	<div class="client_list">
+		{{each client_list as item index}}
+		<a data-stat-key="related_customer" class="relation_item {{index%2==0?'left_item':''}}" target="_blank" href="/company/{{item.id}}">
+			{{if item.logo_url}}
+			<div class="relation_imgwrapper"><img class="relation_img" data-src="https://ss.intsig.net/yemai/vip/camfs/qxb/{{item.logo_url}}.t160u"></div>
+			{{else}}
+				{{if item.logo_cname && item.logo_cname.length < 5}}
+				{{if 2==item.logo_cname.length || 1==item.logo_cname.length}}<div class="no_logo c_core_logo length_two_logo">{{item.logo_cname}}</div>{{/if}}
+				{{if 3 == item.logo_cname.length}}<div class="no_logo c_core_logo length_three_logo">{{item.logo_cname}}</div>{{/if}}
+				{{if 4==item.logo_cname.length}}<div class="no_logo c_core_logo">{{item.logo_cname}}</div>{{/if}}
+				{{else}}
+				<div class="no_logo"><i class="icon_company"></i></div>
+				{{/if}}
+			{{/if}}
+			<span class="relation_companyname">
+				{{item.name}}
+				{{if item.auth_status == '1'}}<img class="company_verify" src="https://static.intsig.net/bs/images/verify_logo.png" />{{/if}}
+			</span>
+			<i class="hidden"></i>
+		</a>
+		{{/each}}
+	</div>
+	{{else}}
+		<div class="empty_tip">暂无信息</div>
+	{{/if}}
+{{/if}}
+</script><script type="text/template" id="company_leftinfo"  class="company_leftinfo">
+	<div class="logo_wrapper">
+		{{if is_login && extend_info && extend_info.logo_url}}
+		<div class="img_wrapper">
+		<img class="base_logo" id="base_logo" sg-src="https://ss.intsig.net/yemai/vip/camfs/qxb/{{extend_info.logo_url}}.t160u" /></div>
+	{{else}}
+		{{if extend_info && extend_info.logo_cname && extend_info.logo_cname.length < 5}}
+		{{if 2==extend_info.logo_cname.length || 1==extend_info.logo_cname.length}}<div class="img_wrapper c_core_logo length_two_logo">{{extend_info.logo_cname}}</div>{{/if}}
+		{{if 3 == extend_info.logo_cname.length}}<div class="img_wrapper c_core_logo length_three_logo">{{extend_info.logo_cname}}</div>{{/if}}
+		{{if 4==extend_info.logo_cname.length}}<div class="img_wrapper c_core_logo">{{extend_info.logo_cname}}</div>{{/if}}
+		{{else}}
+		<i class="img_wrapper icon_company" ></i>
+		{{/if}}
+	{{/if}}
+	{{if extend_info && extend_info.auth_status}}
+	<span class="company_claim_href">
+		<img class="company_claim" src="https://static.intsig.net/bs/images/verify_logo.png" title="该企业已有认证员工入驻">
+		{{if !claimed_company}}
+		<span class="more_authen">
+			<span class="auth_title_info">该企业已有认证员工入驻</span>
+			<a class="btn" href="/qi/indexnew" target="_blank" data-stat-key="me_need_verify">我也要认证</a>
+		</span>
+		{{/if}}
+	</span>
+	{{/if}}
+	</div>
+	<h1 class="company_name">{{name}}</h1>
+	{{if extend_info && (extend_info.simple_name || extend_info.english_name)}}
+	<p class="company_other_name">{{extend_info.simple_name}}
+		{{if extend_info.english_name}}<span class="company_simple_name">{{extend_info.english_name}}</span>{{/if}}
+	</p>
+	{{/if}}
+	<div class="company_status_box">
+		{{if company_marks && company_marks.length}}
+		{{each company_marks as tag_company}}
+		{{if tag_company.type == '1'}}
+		<span class="company_status dangerous">{{tag_company.value}}</span>
+		{{/if}}
+		{{if tag_company.type == '2'}}
+		<span class="company_status">{{tag_company.value}}</span>
+		{{/if}}
+		{{/each}}
+		{{/if}}
+	</div>
+	
+</script>
+<script type="text/template" id="relation_company" class="relation_company">
+	<h3 class="section_header">相似公司</h3>
+{{if relation_company_list && relation_company_list.length}}
+	{{each relation_company_list as item index}}
+		<a data-stat-key="related_customer" class="relation_item" target="_blank" href="/company/{{item.id}}">
+            {{if item.logo_url}}
+            <div class="relation_imgwrapper"><img class="relation_img" sg-src="https://ss.intsig.net/yemai/vip/camfs/qxb/{{item.logo_url}}.t160u"></div>
+			{{else}}
+				{{if item.logo_cname && item.logo_cname.length < 5}}
+				{{if 2==item.logo_cname.length || 1==item.logo_cname.length}}<div class="no_logo c_core_logo length_two_logo">{{item.logo_cname}}</div>{{/if}}
+				{{if 3 == item.logo_cname.length}}<div class="no_logo c_core_logo length_three_logo">{{item.logo_cname}}</div>{{/if}}
+				{{if 4==item.logo_cname.length}}<div class="no_logo c_core_logo">{{item.logo_cname}}</div>{{/if}}
+                {{else}}
+                <div class="no_logo"><i class="icon_company"></i></div>
+				{{/if}}
+            {{/if}}
+            <span class="relation_companyname">
+            {{item.name}}
+            {{if item.auth_status == '1'}}
+            <img class="company_verify" src="https://static.intsig.net/bs/images/verify_logo.png" />
+            {{/if}}
+            </span>
+            <i class="hidden"></i>
+		</a>
+	{{/each}}
+{{else}}
+	<div class="no_information">暂无信息</div>
+{{/if}}
+</script><script class="p_bicl" type="text/template" id="bi_changelist">
+	<div class="p_title_wrapper first">
+		<div class="p_title" id="changelist">变更记录</div>
+		<div class="p_title_line"></div>
+	</div>
+	{{if items && items.length}}
+	<table class="table_normal table_changelist">
+		<tr>
+			<th class="cl_date">变更日期</th>
+			<th class="cl_type">变更事项</th>
+			<th class="cl_before">变更前</th>
+			<th class="cl_after">变更后</th>
+		</tr>
+		{{each items as i}}
+		<tr>
+			<td>{{i.change_date||'-'}}</td>
+			<td>{{i.change_item||'-'}}</td>
+			<td>{{i.before_content||'-'}}</td>
+			<td>{{i.after_content||'-'}}</td>
+		</tr>
+		{{/each}}
+	</table>
+	<div class="search_other ib">
+	<div class="search_page" id="search_page"></div>
+	</div>
+	{{else}}
+	<div sg-view="no_data"></div>
+	{{/if}}
+</script><script class="p_biir" type="text/template" id="bi_investment_relation">
+	<div class="p_title_wrapper first">
+		<div class="p_title" id="investment_relation">对外投资</div>
+		<div class="p_title_line"></div>
+	</div>
+	{{if items && items.length}}
+	<div class="biir_company_list">
+		{{each items as i}}
+		<div class="biir_company">
+			<div class="biir_company_inner">
+				<div c_id="{{i.id}}"></div>
+				<div class="biir_logo_wrapper {{if !i.logo}}no_logo{{/if}}">
+					{{if i.logo}}
+					<img class="company_logo" data-src="https://ss.intsig.net/yemai/vip/camfs/qxb/{{i.logo + '.t80u'}}" />
+					{{else}}
+						{{if i.logo_cname && i.logo_cname.length < 5}}
+						{{if 2==i.logo_cname.length || 1==i.logo_cname.length}}<div class="c_core_logo length_two_logo">{{i.logo_cname}}</div>{{/if}}
+						{{if 3 == i.logo_cname.length}}<div class="c_core_logo length_three_logo">{{i.logo_cname}}</div>{{/if}}
+						{{if 4==i.logo_cname.length}}<div class="c_core_logo">{{i.logo_cname}}</div>{{/if}}
+						{{else}}
+						<i class="icon_company"></i>
+						{{/if}}
+					{{/if}}
+				</div>
+				<div class="biir_name ib">
+					<div class="biir_name show_company_name">{{i.name||'-'}}</div>
+					{{if i['company_marks'] && i['company_marks'].length}}
+						{{each i['company_marks'] as tag_company}}
+						{{if tag_company.type == '1'}}
+						<div class="biir_status show_company_type dangerous">{{tag_company.value}}</div>
+						{{/if}}
+						{{if tag_company.type == '2'}}
+						<div class="biir_status show_company_type">{{tag_company.value}}</div>
+						{{/if}}
+						{{/each}}
+					{{/if}}
+				</div>
+				<div class="biir_scale ib">
+					<span class="biir_scale_text">法人代表：{{i.oper_name||'-'}}</span>
+					<span class="biir_scale_text">注册资本：{{i.reg_capi||'-'}}</span>
+					<span class="biir_scale_text">成立时间：{{i.start_date||'-'}}</span>
+				</div>
+				<div class="biir_industry_list ib">
+					{{if i.business}}
+					{{each i.business as j}}
+					<div class="biir_industry">{{j}}</div>
+					{{/each}}
+					{{/if}}
+				</div>
+			</div>
+		</div>
+		{{/each}}
+	</div>
+	<div class="search_other ib">
+		<div class="search_page" id="search_page"></div>
+	</div>
+	{{else}}
+	<div sg-view="no_data"></div>
+	{{/if}}
+</script><script type="text/template" class="contact_list" id="contact_list">
+	<h2 class="section_header">{{title || '联系方式'}}</h2>
+	{{if !contacts_mask || !contacts_mask.length}}
+		<p class="empty_tip">暂无信息</p>
+	{{else}}
+	<div class="contact_wrapper">
+	{{if contacts_mask && contacts_mask.length}}
+	{{contacts = contacts_mask}}
+		{{each contacts as item index}}
+			{{if item.type == 'email'}}
+			<a data-stat-key="contact_mail" class="contact_item" href="mailto:{{item.contact}}">
+				<i class="icon_normal icon_mail"></i>
+				<div class="contact_content">
+					<div class="contact_text" data-id="{{index}}">
+						<span>{{item.contact}}</span>
+						{{if item.show_logo}}
+						<i class="icon_identification"></i>
+						{{/if}}
+					</div>
+					<div class="contact_tag">{{item.tag}}</div>
+				</div>
+			</a>
+			{{else if item.type == 'mobile'}}
+			<a data-stat-key="unlock_number" class="contact_item" data-index="{{index}}">
+				<div class="contact_remark">
+					<!-- 设置解锁 -->
+					{{if item.feedback_status == 3}}
+					<div class="show_unlock">
+						<div class="contact_text_right">
+							<i class="icon_locker"></i>解锁号码
+						</div>
+						{{if item.useful_count > 4 || item.useless_count > 4}}
+						<div class="contact_tag_right">{{item.useful_count >= item.useless_count ? max(item.useful_count) + '人反馈可接通' : max(item.useless_count) + '人反馈无用'}}</div>
+						{{/if}}
+					</div>
+					{{/if}}
+					<!-- 评论有效 -->
+					{{if item.feedback_status != 3}}
+					<div class="show_remark ib">
+						<div class="contact_remark_block remark_negative">
+							<i class="icon_thumb_down contact_remark_down"></i>
+							<span class="contact_remark_words">{{item.useless_count ? max(item.useless_count) : '无用'}}</span>
+						</div>
+						<div class="contact_remark_block remark_positive">
+							<i class="icon_thumb_up contact_remark_up"></i>
+							<span class="contact_remark_words">{{item.useful_count ? max(item.useful_count) : '有用'}}</span>
+						</div>
+					</div>
+					{{/if}}
+				</div>
+				<i class="icon_normal icon_call"></i>
+				<div class="contact_content{{if item.feedback_status != 3}} padding_right{{/if}}">
+					<div class="contact_text">
+						{{if item.contact}}
+						<span>{{replace(item.contact,',,')}}</span>
+						{{/if}}
+						{{if item.show_logo}}
+						<i class="icon_identification"></i>
+						{{/if}}
+					</div>
+					<div class="contact_tag">
+						<span>{{item.tag}}</span>
+					</div>
+				</div>
+			</a>
+			{{else}}
+			<a data-stat-key="company_address" class="contact_item" target="_blank"
+			   href="//api.map.baidu.com/geocoder?address={{item.contact}}&output=html&src=IntSig|CamCard">
+				<i class="icon_normal icon_location"></i>
+				<div class="contact_content">
+					<div class="contact_text">
+						<span>{{item.contact}}</span>
+						{{if item.show_logo}}
+						<i class="icon_identification"></i>
+						{{/if}}
+					</div>
+					<div class="contact_tag">{{item.tag}}</div>
+				</div>
+			</a>
+			{{/if}}
+		{{/each}}
+	{{/if}}
+	</div>
+	{{/if}}
+	{{if show_map}}<div id="allmap" class="allmap"></div>{{/if}}
+</script>
+<script type="text/template" class="p_ip" id="ip">
+	<div data-anchor="trademark" class="first">
+		<div class="p_title_wrapper first">
+			<div class="p_title">商标&nbsp;{{data.trademark ? data.trademark.total == '0' ? '' : data.trademark.total : '' }}</div>
+			<div class="p_title_line"></div>
+		</div>
+	</div>
+	{{if data.trademark && data.trademark.items && data.trademark.items.length}}
+	<div class="normal_box">
+		<div class="normal_inner" sg-view="trademark"></div>
+		{{if data.trademark.total > data.trademark.items.length}}
+		<div class="page_box" data-name="trademark" data-type="ip_trademark"></div>
+		{{/if}}
+	</div>
+	{{else}}
+	<div sg-view="no_data"></div>
+	{{/if}}
+	<div data-anchor="patent">
+		<div class="p_title_wrapper">
+			<div class="p_title">专利信息 {{data.patents ? data.patents.total == '0' ? '' : data.patents.total : '' }}</div>
+			<div class="p_title_line"></div>
+		</div>
+	</div>
+	{{if data.patents && data.patents.items &&  data.patents.items.length}}
+	<div class="normal_box">
+		<div class="normal_inner" sg-view="patents"></div>
+		{{if data.patents.total > data.patents.items.length}}
+		<div class="page_box" data-name="patents" data-type="ip_patent"></div>
+		{{/if}}
+	</div>
+	{{else}}
+	<div sg-view="no_data"></div>
+	{{/if}}
+	<div data-anchor="copyright">
+		<div class="p_title_wrapper">
+			<div class="p_title">原创著作权 {{data['P-copyright'] ? data['P-copyright'].total == '0' ? '' : data['P-copyright'].total : '' }}</div>
+			<div class="p_title_line"></div>
+		</div>
+	</div>
+	{{if data['P-copyright'] && data['P-copyright'].items && data['P-copyright'].items.length}}
+	<div class="normal_box">
+		<div class="normal_inner" sg-view="Pcopyright"></div>
+		{{if data['P-copyright'].total > data['P-copyright'].items.length}}
+		<div class="page_box" data-name="P-copyright" data-type="ip_copyright" data-num="P"></div>
+		{{/if}}
+	</div>
+	{{else}}
+	<div sg-view="no_data"></div>
+	{{/if}}
+	<div data-anchor="soft_copyright">
+		<div class="p_title_wrapper">
+			<div class="p_title">软件著作权 {{data['S-copyright'] ? data['S-copyright'].total == '0' ? '' : data['S-copyright'].total : '' }}</div>
+			<div class="p_title_line"></div>
+		</div>
+	</div>
+	{{if data['S-copyright'] && data['S-copyright'].items && data['S-copyright'].items.length}}
+	<div class="normal_box">
+		<div class="normal_inner" sg-view="Scopyright"></div>
+		{{if data['S-copyright'].total > data['S-copyright'].items.length}}
+		<div class="page_box" data-name="S-copyright" data-type="ip_copyright" data-num="S"></div>
+		{{/if}}
+	</div>
+	{{else}}
+	<div sg-view="no_data"></div>
+	{{/if}}
+	<div data-anchor="domain">
+		<div class="p_title_wrapper">
+			<div class="p_title">域名 {{data.domain ? data.domain.total == '0' ? '' : data.domain.total : '' }}</div>
+			<div class="p_title_line"></div>
+		</div>
+	</div>
+	{{if data.domain && data.domain.items && data.domain.items.length}}
+	<div class="normal_box">
+		<div class="normal_inner" sg-view="domain"></div>
+		{{if data.domain.total > data.domain.items.length}}
+		<div class="page_box" data-name="domain" data-type="ip_domain"></div>
+		{{/if}}
+	</div>
+	{{else}}
+	<div sg-view="no_data"></div>
+	{{/if}}
+	<div data-anchor="certification">
+		<div class="p_title_wrapper">
+			<div class="p_title">资质认证 {{data.certificate ? data.certificate.total == '0' ? '' : data.certificate.total : '' }}</div>
+			<div class="p_title_line"></div>
+		</div>
+	</div>
+	{{if data.certificate && data.certificate.items && data.certificate.items.length}}
+	<div class="normal_box">
+		<div class="normal_inner" sg-view="certificate"></div>
+		{{if data.certificate.total > data.certificate.items.length}}
+		<div class="page_box" data-name="certificate" data-type="ip_certify"></div>
+		{{/if}}
+	</div>
+	{{else}}
+	<div sg-view="no_data"></div>
+	{{/if}}
+</script>
+<script type="text/template" id="trademark">
+	<table class="table_normal table_changelist">
+		<tr>
+			<th width="110">商标</th>
+			<th width="120">商标名</th>
+			<th width="240">状态</th>
+			<th width="110">申请时间</th>
+			<th width="120">注册号</th>
+			<th width="100">类别</th>
+		</tr>
+		{{each data.trademark.items as item}}
+		<tr>
+			<td>
+				<div class="img_wrapper"><img class="reset_img" src="{{item.image_name}}"></div>
+			</td>
+			<td><a class="link trademark_detail" data-id="{{item.id}}">{{item.name || '-'}}</a></td>
+			<td>{{item.status || '-'}}</td>
+			<td>{{item.apply_date || '-'}}</td>
+			<td>{{item.reg_num || '-'}}</td>
+			<td>{{item.type_num}} - {{item.type_name}}</td>
+		</tr>
+		{{/each}}
+	</table>
+</script>
+<script type="text/template" id="patents">
+	<table class="table_normal table_changelist">
+		<tr>
+			<th width="300">专利名称</th>
+			<th width="200">申请号</th>
+			<th width="150">授权日期</th>
+			<th width="150">专利类型</th>
+		</tr>
+		{{each data.patents.items as item}}
+		<tr>
+			<td><a class="link patent_detail" data-id="{{item.id}}">{{item.patent_name}}</a></td>
+			<td>{{item.request_num || '-'}}</td>
+			<td>{{item.outhor_date || '-'}}</td>
+			<td>{{item.type_name || '-'}}</td>
+		</tr>
+		{{/each}}
+	</table>
+</script>
+<script type="text/template" id="Pcopyright">
+	<table class="table_normal table_changelist">
+		<tr>
+			<th width="110">作品名称</th>
+			<th width="120">登记号</th>
+			<th width="240">类别</th>
+			<th width="110">创作完成日期</th>
+			<th width="120">登记日期</th>
+			<th width="100">首次发布日期</th>
+		</tr>
+		{{each data['P-copyright'].items as item}}
+		<tr>
+			<td>{{item.name || '-'}}</td>
+			<td>{{item.number || '-'}}</td>
+			<td>{{item.type_name || '-'}}</td>
+			<td>{{item.success_date || '-'}}</td>
+			<td>{{item.approval_date || '-'}}</td>
+			<td>{{item.first_date || '-'}}</td>
+		</tr>
+		{{/each}}
+	</table>
+</script>
+<script type="text/template" id="Scopyright">
+	<table class="table_normal table_changelist">
+		<tr>
+			<th width="250">软件名称</th>
+			<th width="110">登记号</th>
+			<th width="110">版本号</th>
+			<th width="110">分类号</th>
+			<th width="110">登记批准日期</th>
+			<th width="110">软件简称</th>
+		</tr>
+		{{each data['S-copyright'].items as item}}
+		<tr>
+			<td>{{item.name || '-'}}</td>
+			<td>{{item.number || '-'}}</td>
+			<td>{{item.version || '-'}}</td>
+			<td>{{item.type_num || '-'}}</td>
+			<td>{{item.approval_date || '-'}}</td>
+			<td>{{item.short_name || '-'}}</td>
+		</tr>
+		{{/each}}
+	</table>
+</script>
+<script type="text/template" id="domain">
+	<table class="table_normal table_changelist">
+		<tr>
+			<th width="220">网址</th>
+			<th width="290">名称</th>
+			<th width="180">网站备案/许可证号</th>
+			<th width="110">登记批准日期</th>
+		</tr>
+		{{each data.domain.items as item}}
+		<tr>
+			<td>{{if item.home_url}}<a data-stat-key="company_related_domain" class="link" target="_blank" href="{{data.fixUrl(item.home_url, false)}}">{{data.replace(item.home_url)}}</a>{{else}}-{{/if}}</td>
+			<td>{{item.site_name || '-'}}</td>
+			<td>{{item.number || '-'}}</td>
+			<td>{{item.check_date || '-'}}</td>
+		</tr>
+		{{/each}}
+	</table>
+</script>
+<script type="text/template" id="certificate">
+	<table class="table_normal table_changelist">
+		<tr>
+			<th width="200">证书类型</th>
+			<th width="110">证书编号</th>
+			<th width="110">发证日期</th>
+			<th width="380">备注</th>
+		</tr>
+		{{each data.certificate.items as item}}
+		<tr>
+			<td>
+				<a class="link certify_detail" data-id="{{item.num}}">{{item.type}}</a>
+				<textarea id="data" style="display: none;">{{data.stringify(item)}}</textarea>
+			</td>
+			<td>{{item.num || '-'}}</td>
+			<td>{{item.issue_date || '-'}}</td>
+			<td>{{item.remarks || '-'}}</td>
+		</tr>
+		{{/each}}
+	</table>
+</script><script type="text/template" id="mi">
+	<div class="p_title_wrapper first"  data-anchor="recruit">
+		<div class="p_title">招聘{{if jobs && jobs.total}}({{jobs.total}}){{/if}}</div>
+		<div class="p_title_line"></div>
+	</div>
+	{{if jobs && jobs.items && jobs.items.length}}
+	<table class="table_normal mi_rc_table">
+	</table>
+	<div class="pagination_wrapper" id="mi_rc_page"></div>
+	{{else}}
+	<div class="no_info">暂无信息</div>
+	{{/if}}
+	<div class="p_title_wrapper "  data-anchor="bid">
+		<div class="p_title">招标{{if bids && bids.total}}({{bids.total}}){{/if}}</div>
+		<div class="p_title_line"></div>
+	</div>
+	{{if bids && bids.items && bids.items.length}}
+	<table class="table_normal mi_bid_table">
+	</table>
+	<div class="pagination_wrapper"></div>
+	{{else}}
+	<div class="no_info">暂无信息</div>
+	{{/if}}
+	<div class="p_title_wrapper "  data-anchor="tender">
+		<div class="p_title">中标{{if tender && tender.total}}({{tender.total}}){{/if}}</div>
+		<div class="p_title_line"></div>
+	</div>
+	{{if tender && tender.items &&　tender.items.length}}
+	<table class="table_normal mi_td_table">
+	</table>
+	<div class="pagination_wrapper"></div>
+	{{else}}
+	<div class="no_info">暂无信息</div>
+	{{/if}}
+</script>
+<script type="text/template" class="mi_rc" id="mi_rc">
+	<tr>
+		<th class="sh_position">职位</th>
+		<th class="sh_salary">薪资</th>
+		<th class="sh_expr">经验</th>
+		<th class="sh_address">地点</th>
+		<th class="sh_edu">学历</th>
+		<th class="sh_date">发布日期</th>
+	</tr>
+	{{each items as i}}
+	<tr>
+		<td>{{i.title || '-'}}</td>
+		<td>{{if i.salary}}{{i.salary}}元/月{{else}}'-'{{/if}}</td>
+		<td>{{i.years || '-'}}</td>
+		<td>{{i.location || '-'}}</td>
+		<td>{{i.education || '-'}}</td>
+		<td>{{i.date || '-'}}</td>
+	</tr>
+	{{/each}}
+</script>
+<script type="text/template" class="mi_td" id="mi_bid">
+	<tr>
+		<th class="sh_title"> 名称</th>
+		<th class="sh_address">地区</th>
+		{{if tender_type == 1}}
+		<th class="sh_status">状态</th>
+		{{else}}
+		<th class="sh_status">招标机构</th>
+		{{/if}}
+		<th class="sh_date">发布日期</th>
+	</tr>
+	{{each items as i}}
+	<tr>
+		<td><a class="link" href="{{i.detail_page}}" target="_blank">{{i.title || '-'}}</a></td>
+		<td>{{i.area_name || '-'}}</td>
+		{{if tender_type == 1}}
+		<td>{{status_text[i.status] || '-'}}</td>
+		{{else}}
+		<td>{{i.tender_corp}}</td>
+		{{/if}}
+		<td>{{i.date || '-'}}</td>
+	</tr>
+	{{/each}}
+</script>
+<script type="text/template" id="nav_menu" class="p_vm">
+	<div class="menu_list ib">
+		<div class="menu select" data-path="bi">
+			<span class="menu_title">工商信息</span>
+		</div>
+		<div class="menu" data-path="ip">
+			<span class="menu_title">知识产权</span>
+			{{if ip_num > 0}}<span class="menu_num">{{if ip_num > 999}}999+{{else}}{{ip_num}}{{/if}}</span>{{/if}}
+		</div>
+		<div class="menu" data-path="mi">
+			<span class="menu_title">经营信息</span>
+			{{if mange_count > 0}}<span class="menu_num">{{if mange_count > 999}}999+{{else}}{{mange_count}}{{/if}}</span>{{/if}}
+		</div>
+		<div class="update_wrapper">
+			{{if can_update}}
+			<div class="update_btn link">
+				<i class="icon_update"></i>立即更新
+			</div>
+			{{else}}
+			<div class="update_time">
+				<i class="icon_update"></i>
+				更新时间：{{last_update_time}}
+			</div>
+			{{/if}}
+		</div>
+	</div>
+	<div class="menu_list_sub ib" id="mls_bi">
+		<div class="menu_sub" data-path="baseinfo">基本信息</div>
+		<div class="menu_sub" data-path="changelist">变更记录{{if change_count > 0}}({{if change_count > 999}}999+{{else}}{{change_count}}{{/if}}){{/if}}</div>
+		<div class="menu_sub" data-path="investment_relation">对外投资{{if related_count > 0}}({{if related_count > 999}}999+{{else}}{{related_count}}{{/if}}){{/if}}</div>
+		<div class="menu_sub" data-path="annual_report_list">年报{{if reports_count > 0}}({{if reports_count > 999}}999+{{else}}{{reports_count}}{{/if}}){{/if}}</div>
+	</div>
+	<div class="menu_list_sub menu_anchor ib" id="mls_ip">
+		<div class="menu_sub" data-anchor="trademark">商标{{if trademarks_count > 0}}({{if trademarks_count > 999}}999+{{else}}{{trademarks_count}}{{/if}}){{/if}}</div>
+		<div class="menu_sub" data-anchor="patent">专利信息{{if patents_count > 0}}({{if patents_count > 999}}999+{{else}}{{patents_count}}{{/if}}){{/if}}</div>
+		<div class="menu_sub" data-anchor="copyright">原创著作权{{if original_count > 0}}({{if original_count > 999}}999+{{else}}{{original_count}}{{/if}}){{/if}}</div>
+		<div class="menu_sub" data-anchor="soft_copyright">软件著作权{{if soft_count > 0}}({{if soft_count > 999}}999+{{else}}{{soft_count}}{{/if}}){{/if}}</div>
+		<div class="menu_sub" data-anchor="domain">域名{{if domains_count > 0}}({{if domains_count > 999}}999+{{else}}{{domains_count}}{{/if}}){{/if}}</div>
+		<div class="menu_sub" data-anchor="certification">资质认证{{if certificate_count > 0}}({{if certificate_count > 999}}999+{{else}}{{certificate_count}}{{/if}}){{/if}}</div>
+	</div>
+</script><script type="text/template" id="no_data">
+	<div class="no_data">暂无信息</div>
+</script><script type="text/template" id="po" class="p_po">
+	<div class="po_wrapper">
+	<h2 class="news_title">企业新闻</h2>
+	{{if items && items.length}}
+		{{each items as i}}
+	<a data-stat-key="news_item" class="news_item" target="_blank" href="{{i.url}}">
+		<h3 class="news_item_title">{{i.title}}</h3>
+		<label class="news_time_sub">{{i.time}}&nbsp;&nbsp;&nbsp;&nbsp;{{i.source}}</label>
+		<p class="news_item_desp">{{i.content}}</p>
+	</a>
+		{{/each}}
+		<div class="news_page_wrapper">
+			<div class="search_page" id="search_page"></div>
+		</div>
+	{{else}}
+	<div>
+		<p class="news_empty_wrapper news_empty_icon"><i class="icon_news"></i></p>
+		<p class="news_empty_wrapper">该公司没有任何新闻</p>
+	</div>
+	{{/if}}
+	</div>
+</script><script type="text/template" id="news" class="section p_po">
+	{{if items && items.length}}
+		<h2 class="section_header">企业新闻({{total>999?'999+':total}})
+			{{if total>2 }}
+				<div class="show_total" id="view_all_news">查看更多</div>
+			{{/if}}
+		</h2>
+		{{each items as i}}
+		<a data-stat-key="news_item" class="news_item" target="_blank" href="{{i.url}}">
+			<h3 class="news_item_title">{{i.title}}</h3>
+			<label class="news_time_sub">{{i.time}}&nbsp;&nbsp;&nbsp;&nbsp;{{i.source}}</label>
+			<p class="news_item_desp">{{i.content}}</p>
+		</a>
+		{{/each}}
+	{{else}}
+		<div>
+			<p class="news_empty_wrapper news_empty_icon"><i class="icon_news"></i></p>
+			<p class="news_empty_wrapper">该公司没有任何新闻</p>
+		</div>
+	{{/if}}
+</script><script type="text/template" id="patent_detail">
+	<div class="detail_wrapper">
+		<div class="title ib">
+			<div class="p_title">专利详情</div>
+			<div class="patent_date">申请日期：{{request_date || '-'}}</div>
+		</div>
+		<div class="content ib">
+			<div class="content_half ib">
+				<div class="item_title">申请号</div>
+				<div class="item_content">{{request_num || '-'}}</div>
+			</div>
+			<div class="content_half ib">
+				<div class="item_title">申请日</div>
+				<div class="item_content">{{request_date || '-'}}</div>
+			</div>
+			<div class="content_half ib">
+				<div class="item_title">授权公众号</div>
+				<div class="item_content">{{outhor_num || '-'}}</div>
+			</div>
+			<div class="content_half ib">
+				<div class="item_title">授权公布日</div>
+				<div class="item_content">{{outhor_date || '-'}}</div>
+			</div>
+		</div>
+		<div class="content ib">
+			<div class="content_half ib">
+				<div class="item_title">申请人</div>
+				<div class="item_content">{{patent_person || '-'}}</div>
+			</div>
+			<div class="content_half ib">
+				<div class="item_title">发明人</div>
+				<div class="item_content">{{designer || '-'}}</div>
+			</div>
+			<div class="content_line ib">
+				<div class="item_title">专利类型</div>
+				<div class="item_content_line">{{type_name || '-'}}</div>
+			</div>
+			<div class="content_line ib">
+				<div class="item_title">分类号</div>
+				<div class="item_content_line">{{category_num || '-'}}</div>
+			</div>
+		</div>
+		<div class="item_title">详细信息</div>
+		<div class="long_content">
+			{{brief || '-'}}
+		</div>
+		<div class="close_btn icon_close"></div>
+	</div>
+</script><script type="text/template" id="trademark_detail">
+	<div class="detail_wrapper">
+		<div class="title ib">
+			<div class="p_title">商标详情</div>
+			<div class="patent_date">申请日期：{{apply_date || '-'}}</div>
+		</div>
+		<div class="content ib">
+			<div class="content_half ib">
+				<div class="item_title">商标名称</div>
+				<div class="item_content">{{name || '-'}}</div>
+			</div>
+			<div class="content_half ib">
+				<div class="item_title">商标状态</div>
+				<div class="item_content">{{status || '-'}}</div>
+			</div>
+			<div class="content_half ib">
+				<div class="item_title">商标注册号</div>
+				<div class="item_content">{{reg_number || '-'}}</div>
+			</div>
+			<div class="content_half ib">
+				<div class="item_title">申请日</div>
+				<div class="item_content">{{apply_date || '-'}}</div>
+			</div>
+		</div>
+		<div class="content ib">
+			<div class="content_half ib">
+				<div class="item_title">商标代理机构</div>
+				<div class="item_content">{{agent || '-'}}</div>
+			</div>
+			<div class="content_half ib">
+				<div class="item_title">商标使用期限</div>
+				<div class="item_content">{{period || '-'}}</div>
+			</div>
+		</div>
+		<div class="item_title_line">商品及服务列表</div>
+		<div class="long_content">
+			{{if products && products.length}}
+			{{each products as i}}
+			{{i.name}}({{i.num}})<br>
+			{{/each}}
+			{{else}}
+			--
+			{{/if}}
+		</div>
+		<div class="item_title_line">商标动态</div>
+		<div class="long_content">
+			{{if steps}}
+			{{each steps as i}}
+			{{i.step}}({{i.date}})<br>
+			{{/each}}
+			{{/if}}
+		</div>
+		<div class="close_btn icon_close"></div>
+	</div>
+</script><script type="text/template" id="certify_detail">
+	<div class="detail_wrapper">
+		<div class="title ib">
+			<div class="p_title">资质认证</div>
+			<div class="patent_date">发证日期：{{issue_date || '-'}}</div>
+		</div>
+		<div class="content ib">
+			<div class="content_half ib">
+				<div class="item_title">证书类别：</div>
+				<div class="item_content">{{type || '-'}}</div>
+			</div>
+			<div class="content_half ib">
+				<div class="item_title">截止日期：</div>
+				<div class="item_content">{{validity_end || '-'}}</div>
+			</div>
+			<div class="content_half ib">
+				<div class="item_title">证书编号：</div>
+				<div class="item_content">{{num || '-'}}</div>
+			</div>
+			<div class="content_half ib">
+				<div class="item_title">状态：</div>
+				<div class="item_content">{{status || '-'}}</div>
+			</div>
+		</div>
+		<div class="item_title">备注：</div>
+		<div class="long_content">
+			<pre>{{remarks || '-'}}</pre>
+		</div>
+		<div class="close_btn icon_close"></div>
+	</div>
+</script><script type="text/template" id="verify_entry">
+{{if is_my_company}}
+<div class="claim_banner_bottom">
+	<div class="claim_wrapper ib">
+		<div class="claim_content">
+			<div class="claim_content_1">小窍门：完善企业信息，<em>免费推广</em>您的企业！</div>
+			<div class="claim_content_2">认证职业身份，即可完善企业资料，品牌<b>曝光度翻倍</b></div>
+		</div>
+		<div class="claim_content">
+		<a href="/qi/indexnew" target="_blank" class="btn btn_claim_mention">免费认证</a>
+		<a href="/site/claimbenefits" target="_blank" class="btn btn_claim_mention link_more">了解更多特权</a>
+		</div>
+		<div class="icon_close claim_content"></div>
+	</div>
+	<div class="claim_banner_mask"></div>
+</div>
+{{else}}
+<div class="normal_box">
+	<div class="claim_banner_wrapper">
+		<a href="/qi/indexnew" target="_blank" class="btn btn_claim_mention">免费认证</a>
+		<a href="/site/claimbenefits" target="_blank" class="link_more">了解更多特权</a>
+	</div>
+</div>
+{{/if}}
+</script>
+<!-- 登陆页面 -->
+<script type="text/template" id="login">
+	<div class="login_box">
+        <div class="login_switch ib">
+            <div class="normal_tab tab_phone selected">
+                <span data-stat-key="login_by_phone" class="tab_text">手机验证码登录</span>
+            </div>
+            <div data-stat-key="login_by_account" class="normal_tab tab_account">
+                <span class="tab_text">账号密码登录</span>
+            </div>
+        </div>
+        <div class="login_by_phone" sg-view="login_by_phone"></div>
+        <div class="login_by_account" sg-view="login_by_account" style="display: none"></div>
+        <div class="register">还没有账号？
+            <a data-stat-key="go_to_register" class="link link_register"
+               href="/user/register?redirect=https%3A%2F%2Fwww.zdao.com%2Fcompany%2F64507148-789c-480b-a89e-b99cee9ff6fa">立即注册</span></a>
+        </div>
+		<div sg-view="login_by_oauth"></div>
+    </div>
+</script>
+<!-- 手机验证码子页面 -->
+<script type="text/template" id="login_by_phone">
+	<div class="input_wrapper first">
+		<input type="text" class="input_text account" id="input_phone">
+		<div class="error_tip err_account" id="err_tip_phone"></div>
+	</div>
+	<div class="input_wrapper" id="image_vcode_wrapper">
+		<input type="text" class="input_text" sg-placeholder="图片验证码" id="input_image_vcode">
+		<img class="image_vcode" id="image_vcode">
+	</div>
+	<div class="input_wrapper">
+		<div class="input_inner">
+			<div data-stat-key="get_verify_code" class="btn blue_white btn_get_code" id="btn_get_vcode">获取验证码</div>
+			<div class="input_code">
+				<input type="text" class="input_text vcode" id="input_vcode">
+			</div>
+		</div>
+
+		<div class="error_tip err_vcode"></div>
+	</div>
+    <div class="login_help">
+	    <div data-stat-key="keep_login" class="keep_login show ib" sg-component="keep_login"></div>
+    </div>
+	<div class="btn_login btn big" data-stat-key="login">登录</div>
+</script>
+
+<!-- 账号密码子页面 -->
+<script type="text/template" id="login_by_account">
+	<div class="input_wrapper first">
+		<input type="text" class="input_text account">
+
+		<div class="error_tip err_contact"></div>
+	</div>
+	<div class="input_wrapper">
+		<input type="password" class="input_text password">
+		<div class="error_tip err_password"></div>
+	</div>
+    <div class="login_help">
+        <div class="find_password link" data-stat-key="forgot_pwd">忘记密码？</div>
+        <div data-stat-key="keep_login" class="keep_login show ib" sg-component="keep_login"></div>
+    </div>
+	<div class="btn_login btn big" data-stat-key="login">登录</div>
+</script>
+
+<!-- checkbox -->
+<script type="text/component-template" id="keep_login">
+    <div class="keep_login_inner">
+        <i class="icon_success_nocyc"></i>
+    </div>
+    <div class="login_label">下次自动登录</div>
+</script>
+
+<!-- 忘记密码后设置修改密码的对话框 -->
+<script type="text/template" id="modify_pwd">
+	<div class="modify_pwd" id="modify_pwd_step1">
+		<div class="bs_dialog_title">
+			{{title}}
+		</div>
+		<div class="bs_dialog_sub_title">
+			{{subTitle}}
+		</div>
+		<div class="input_tip">
+			原手机号
+		</div>
+		<div class="input_wrapper">
+			<input type="text" value="{{mobile}}" {{if mobile}}disabled{{/if}} class="input_text input_contact" id="input_phone">
+			<div class="error error_contact" id="err_tip_phone">
+				<i class="icon_error"></i>
+				<span>请输入正确手机号</span>
+			</div>
+		</div>
+		<div id="image_vcode_wrapper">
+			<div class="input_tip">
+				图片验证码
+			</div>
+			<div class="input_wrapper">
+				<input type="text" class="input_text" id="input_image_vcode">
+				<img class="image_vcode" id="image_vcode">
+			</div>
+		</div>
+		<div class="input_tip">
+			验证码
+		</div>
+		<div class="input_wrapper input_vcode_wrapper">
+			<input type="text" class="input_text input_vcode" id="input_vcode">
+			<a class="btn blue_white" id="btn_get_vcode">发送验证码</a>
+			<div class="error error_vcode">
+				<i class="icon_error"></i>
+				<span>验证码不正确</span>
+			</div>
+		</div>
+		<div class="btns">
+			<a data-stat-key="modify_pwd_next_step" class="btn" id="btn_next">下一步</a>
+		</div>
+	</div>
+	<div class="modify_pwd" id="modify_pwd_step2" style="display: none;">
+		<input type="hidden" value="" id="sms_token">
+		<div class="bs_dialog_title">
+			重置密码
+		</div>
+		<div class="input_tip first">
+			设置新密码
+		</div>
+		<div class="input_wrapper">
+			<input type="password" class="input_text input_password">
+			<div class="error error_password">
+				<i class="icon_error"></i>
+				<span>请输入密码</span>
+			</div>
+		</div>
+		<div class="input_tip">
+			确认新密码
+		</div>
+		<div class="input_wrapper">
+			<input type="password" class="input_text input_confirm">
+			<div class="error error_confirm">
+				<i class="icon_error"></i>
+				<span>请输入密码</span>
+			</div>
+		</div>
+		<div class="btns">
+			<a class="btn" id="btn_finish">完成</a>
+		</div>
+	</div>
+</script>
+<!-- 第三方登陆 -->
+<script nonce="b54aeece0da2fadc7abf1c6809955929">var WX_OAUTH_CONFIG = JSON.parse('{"response_type":"code","scope":"snsapi_login","redirect_uri":"https%3A%2F%2Fwww.zdao.com%2Fuser%2Fwxoauth%3Fredirect%3D%252Fcompany%252F64507148-789c-480b-a89e-b99cee9ff6fa%26op%3D0","appid":"wx08a282658ac03d04","style":"white"}');</script>
+<script type="text/template" id="login_by_oauth">
+	<input type="hidden" value="https://oauth.camcard.com/oauth2/authorize2?client_id=1001067&amp;redirect_uri=https%3A%2F%2Fwww.zdao.com%2Fuser%2Fccoauth%3Fredirect%3D%252Fcompany%252F64507148-789c-480b-a89e-b99cee9ff6fa%26op%3D0&amp;response_type=code&amp;type=cc" id="ccoauth_url">
+	<div class="oauth_title">可使用以下账号授权登录</div>
+	<div class="oauth_content">
+		<div data-stat-key="login_by_weixin" class="login_icon login_by_wx" title="使用微信登录">
+			<i class="icon_oauth icon_wechat"></i>
+		</div>
+		<div data-stat-key="login_by_cc" class="login_icon login_by_cc" title="使用名片全能王登录">
+			<i class="icon_oauth icon_cc_logo"></i>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="wx_qrcode">
+	<div id="wx_qrcode_wrapper"></div>
+</script>
+<script type="text/template" id="template_notice">
+	<div class="notice_wrapper d_n">
+		<div class="dialog_title">{{title}}</div>
+		<div class="notice_content">{{content}}</div>
+		{{if !is_no_btn}}
+		<div class="notice_btn_box ib">
+			<div class="notice_btn notice_cancel" data-stat-key="private_chat_raise_cancel">取消</div>
+			<a data-stat-key="private_improve_message_count" class="notice_btn notice_confirm" target="_blank" href="http://cc.co/16WzBW">申请提升额度</a>
+		</div>
+		{{else}}
+		<div class="notice_btn_box ib">
+			<div data-stat-key="private_chat_raise_confirm" class="btn blue notice_cancel">确定</div>
+		</div>
+		{{/if}}
+	</div>
+</script>
+
+<script type="text/template" id="template_msg">
+	<div class="send_msg_wrapper d_sm">
+		<div class="msg_top">
+			<label class="title">发送私信</label>
+			<i id="show_hint" class="icon_info_write"></i>
+		</div>
+		{{if !hint_instructions}}
+		<div class="instructions">
+			小贴士：每天抽出30分钟发50条私信，每月多收获20位生意伙伴，比线下拜访更高效便捷！
+			<i id="hint_instructions" class="icon_close hint_instructions"></i>
+		</div>
+		{{/if}}
+		<div class="container ib">
+			<div class="container_left">
+				<div class="first_child_prv ib">
+					<div class="send_private_left_title ">
+						接收者：
+					</div>
+					<div class="detail_user">
+						<div class="user_icon">
+						{{if !icon}}
+						<img class="icon_head"  src="https://static.intsig.net/bs/images/headpic.png">
+						{{else}}
+						 <img class="icon_head" src="{{if icon.indexOf('http') > -1}}{{icon + '.t160u'}}{{else}}https://ss.intsig.net/yemai/vip/camfs/qxb/{{icon + '.t160u'}}{{/if}}">
+						{{/if}}
+						</div>
+						<div class="user_content">
+							{{if name}}
+							<div class="hide_long name">
+								{{name}}
+							</div>
+							<div class="icon_auth">
+								{{if (flag == '0'&& u_type != '1') || (flag == '0' && cc_white_flag == '1')}}
+								<i class="vp_img icon_unauthentic"></i>
+								{{else if flag == '1'}}
+								<i class="vp_img icon_authentic"></i>
+								{{/if}}
+							</div>
+							{{/if}}
+							<div class="position_user hide_long {{ if !name}}position_margin_top{{/if}}">{{position}}</div>
+						</div>
+					</div>
+				</div>
+				<div class="send_private_left ib">
+					<div class="send_private_left_title">
+						私信分类：
+					</div>
+					<div sg-component="Select" id="select" class="select_box_private">
+						<param id="width" type="int" value="200">
+						<param id="row_height" type="int" value="20">
+						<param id="contents" type="json"
+						       value='[["Talk_about_cooperation","谈合作"],["Looking_for_customers","找客户"],["About_to_visit","约拜访"]]'>
+						{{if selectContainer}}
+						<param id="nonetext" type="string" value={{selectContainer}}>
+						{{else}}
+						<param id="nonetext" type="string" value='请选择'>
+						{{/if}}
+					</div>
+				</div>
+				<div class="msg_way">
+					*您的私信将会以短信形式发送至对方手机。
+					<span class="show_more">
+						了解更多
+					</span>
+				</div>
+				<div class="msg_contain" >
+					<textarea class="msg_text"></textarea>
+					<div class="add_product_wrapper">
+						<div class="add_product_text has_select">附上产品：已选择<span id="product_num"></span>个产品<a class="link add_product edit_add_product">修改</a></div>
+						<div class="add_product_text choose_product">附上产品:<a class="link add_product">添加产品</a></div>
+					</div>
+				</div>
+				<div class="error_tips">请至少输入20字</div>
+			</div>
+			<div class="container_right" id="container_right_msg">
+				<div sg-view="message_dialog"></div>
+				{{if select_id}}
+				<div sg-view='{{select_id}}' id="exp_id"></div>
+				{{/if}}
+			</div>
+			<div class="bottom">
+				<a class="btn white cancel" data-stat-key="send_private_msg_cancel">取消</a>
+				<a class="btn blue confirm" data-stat-key="send_private_msg_confirm">发送</a>
+			</div>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="template_product">
+	<div class="product_wrapper d_sm">
+		<div class="msg_top">
+			<label class="title">选择产品</label>
+			<i id="product_notice" class="icon_info_write"></i>
+		</div>
+		<div class="msg_description">最多添加三个产品</div>
+		<div class="container">
+			<div class="product_list ib">
+				{{each list as item key}}
+				<div class="product_box">
+					<div class="product_item{{if product_list[item.pid]}} selected{{/if}}" data-index="{{key}}">
+						<div class="product_logo">
+							{{if item.purl}}
+							<img class="product_img" data-src="https://ss.intsig.net/yemai/vip/camfs/qxb/{{item.purl}}">
+							{{else}}
+							<i class="icon_nopic"></i>
+							{{/if}}
+						</div>
+						<div class="product_inner{{if !item.creator}} no_creator{{/if}}">
+							<div class="product_name hide_long" title="{{item.pname}}">{{item.pname}}</div>
+							{{if item.creator}}
+							<div class="product_description">发布者：{{item.creator}}<i class="icon_vip"></i></div>
+							{{/if}}
+						</div>
+						<i class="icon_success_nocyc radio"></i>
+					</div>
+				</div>
+				{{/each}}
+			</div>
+			<div class="bottom">
+				<a class="btn white">取消</a>
+				<a class="btn blue" id="product_confirm">确认</a>
+			</div>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="show_more_page">
+	<div class="title_send_msg">私信发送流程介绍</div>
+	<div class="show_more_container">
+		<div class="tip_show_msg">当你发送私信后，对方将会收到短信，站内信提示。</div>
+		<div class="title_sms_temp">短信示例：</div>
+		<div class="sms_temp"></div>
+		<div class="title_sixin_temp">私信案例展示：</div>
+		<div class="sixin_temp"></div>
+		<div class="bottom_send_msg">＊对方查看或回复您的私信，您都会收到短信及消息提醒。</div>
+	</div>
+</script>
+
+<script type="text/template" class="page vm_mt" id="message_tip">
+	<div class="vm_mt_container">
+		<div class="msg_tip_title">★如何提升私信查看率？</div>
+		<div class="msg_tip_suggest">
+			1.精准筛选接收者的行业与职位：
+			<li>发送前查阅对方公司资料，了解对方业务；</li>
+		</div>
+		<div class="msg_tip_suggest">
+			2.每周坚持发送私信，熟能生巧：
+			<li>据统计，私信发送量超过50条的用户，回复率大幅提升；</li>
+			<li>用问句结尾，更能收到回复，如“能否留下联系方式？”“是否需要产品详细资料？”</li>
+		</div>
+		<div class="msg_tip_suggest">
+			3.体现您的实力：
+			<li>说明自己公司的实力、经验，和独特卖点；</li>
+		</div>
+		<div class="msg_tip_suggest">
+			4.拿出您的诚意：
+			<li>用心编写，不群发广告，尊重对方是获得尊重的前提。</li>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" class="page vm_mt_dialog" id="message_dialog">
+	<div class="vm_mt_container">
+		<div class="msg_tip_title">您能通过私信做什么？</div>
+		<div class="msg_tip_suggest">
+			<li>邀约拜访、邀请合作；</li>
+			<li>结交人脉，交换联系方式；</li>
+			<li>介绍您的产品或索取对方产品的相关介绍。</li>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" class="page vm_mt" id="message_exp">
+	<div class="msg_tip_title">范例</div>
+	<div class="msg_tip_suggest">
+		赵总您好，我司近期由于业务拓展，正在寻找母婴用品代工厂，想跟您详谈合作事项，能否留下联系方式？
+	</div>
+</script>
+
+<script type="text/template" class="page vm_mt" id="Looking_for_customers">
+	<div class="msg_tip_title" >找客戶私信范例</div>
+	<div class="msg_tip_suggest">
+		王总，您好！我司专业从事柴油叉车全线品牌的综合维修保养服务，与世界500强企业、上市公司、集团工厂等都有合作。<br><br>
+		我们能助您降低叉车维护成本30%-45%，还可依据您企业实际情况量身定做方案，请问是否需要把更详细的资料发给您？
+	</div>
+</script>
+<script type="text/template" class="page vm_mt" id="Talk_about_cooperation">
+	<div class="msg_tip_title" >谈合作私信范例</div>
+	<div class="msg_tip_suggest">
+		王总您好，我司专注日化产品经销，目前已与P&G等名企达成合作，想代理贵司在日韩地区的经销，共同开拓市场，不知是否有机会合作？
+	</div>
+</script>
+
+<script type="text/template" class="page vm_mt" id="To_data">
+	<div class="msg_tip_title" >要资料私信范例</div>
+	<div class="msg_tip_suggest">
+		赵总，您好，我司由于业务拓展，正在寻找母婴用品代工厂。已在相关网站了解了贵司的大概情况，非常符合我司需求。想咨询具体的合作事项，不知贵司能否发一份公司的合作详情？
+	</div>
+</script>
+<script type="text/template" class="page vm_mt" id="About_to_visit">
+	<div class="msg_tip_title" >约拜访私信范例</div>
+	<div class="msg_tip_suggest">
+		李总，您好，我司是从事卡车业务的租赁、销售及维修业务。目前已跟中石油、宝钢等企业合作，得知贵司是做大型货物运输，也有卡车租赁这方面的需求。本周想去贵司拜访您，不知周六是否方便？
+	</div>
+</script>
+
+<script type="text/template" id="message_tooltip">
+	<div class="message_tooltip_title first">奖励</div>
+	<ul class="message_tooltip_content">
+		<li>发出的私信如果收到对方回复，您将获赠相应额度的奖励。</li>
+	</ul>
+</script>
+<script type="text/template" id="message_limit_tooltip">
+	<div class="message_tooltip_content first">1. 发起一次对话，仅占用一条私信额度，对话内互相回复不占用私信额度</div>
+	<div class="message_tooltip_content">2. 新建的私信对话收到回复，我们将奖励您一条新额度（多次回复不重复奖励）</div>
+</script><script type="text/template" id="template_claim_notice">
+	<div class="notice_wrapper d_n d_cn">
+		<div class="dialog_title">早稻认证会员特权</div>
+		<div class="notice_content">
+			<div class="nc_title">限时免费开通认证会员，即可使用该功能</div>
+			<div class="nc_text">锁定对口部门，私信直达决策人</div>
+		</div>
+		<div class="notice_btn_box ib">
+			<a class="btn white notice_btn notice_cancel" target="_blank" href="https://www.zdao.com/site/claimbenefits">更多特权</a>
+			<a class="btn orange notice_btn notice_confirm" target="_blank" href="https://www.zdao.com/qi">免费认证</a>
+		</div>
+	</div>
+</script><script type="text/template" class="" id="vm_person_list">
+    <div class="vm_pl">
+        {{if show_title}}
+		<div class="vp_title">{{section_title ? section_title : '企业员工'}}
+        {{if data.contact_list && data.contact_list.length && !hide_title_numbers}}
+            (<span id="vp_person_num">{{(total_num ? max(total_num, data.contact_list.length) : data.contact_list.length) > 99 ? "99+" : (total_num ? max(total_num, data.contact_list.length) : data.contact_list.length)}}</span>)
+        {{/if}}
+        <a class="show_total {{if !data.contact_list || !total_num || total_num <= 3}}hide_ele{{/if}}" data-stat-key="private_msg_show_more">查看更多</a>
+
+        {{if is_my_company&&!pri}}
+        <a class="btn_verfify btn blue_white {{data.contact_list && total_num > 3?'':'no_margin'}}" href="/qi/indexnew" target="_blank"><i class="icon_cert_signol">&nbsp;</i>申请认证</a>
+        {{/if}}
+		</div>
+        {{/if}}
+        {{if show_filter}}
+        <div class="vp_filter">
+            <div class="input_wrapper">
+                <input class="input_text vp_input" type="text" autocomplete="off" id="vp_input"/>
+            </div>
+        </div>
+        {{/if}}
+        {{if data && data.contact_list && data.contact_list.length}}
+        <div id="vp_list_outer"></div>
+        {{else if pri != '1'}}
+        <a class="link claim_link" href="/qi" target="_blank">我是该企业员工，{{if is_my_company}}我要认证加V{{else}}我要展示在这里{{/if}}</a>
+        {{else}}
+        <p class="empty_tip">暂无员工信息</p>
+        {{/if}}
+        {{if show_filter && total_num && data.contact_list && total_num > data.contact_list.length}}
+        <div class="vp_filter_notice">想查看更多员工，请通过职位过滤进行筛选</div>
+        {{/if}}
+    </div>
+</script>
+<script type="text/template" id="person_item">
+    {{if data.contact_list && data.contact_list.length}}
+    <div class="vp_list">
+        {{if show_more}}
+        {{contacts = slice(data.contact_list, 5) }}
+        {{else}}
+        {{contacts = data.contact_list }}
+        {{/if}}
+        {{each contacts as item index}}
+        <div class="vp_item">
+            <div class="vp_left {{if item.status == '0'}}vp_contacted{{/if}}">
+                <a class="vp_img_wrapper vm_person_img" href="/account/main?id={{item.cp_id}}&utype={{item.utype}}" target="_blank">
+                    {{if !item.head_icon}}
+                    <img class="vp_avatar" src="https://static.intsig.net/bs/images/headpic.png">
+                    {{else}}
+                    <img class="vp_avatar" src="https://ss.intsig.net/yemai/vip/camfs/qxb/{{item.head_icon + '.t160u'}}">
+                    {{/if}}
+                </a>
+                <div class="vp_content" data-href="/account/main?id={{item.cp_id}}&utype={{item.utype}}" target="_blank">
+                    <div class="vp_content_inner">
+	                    {{if item.name}}
+                        <div class="vp_name_link" >{{is_login ? item.name : '***'}}</div>
+	                    {{/if}}
+                        {{if item.auth_flag == '0' && (item.utype != '1' || item.cc_white_flag == 1)}}
+                        <i class="vp_status_img icon_unauthentic"></i>
+                        {{else if item.auth_flag == '1'}}
+                        <i class="vp_status_img icon_authentic">
+                        {{if is_claimed == 0}}
+                            <div class="more_authen">
+                                <div class="auth_title_info">该用户的职业身份（公司、职位)已获得所在企业认证</div>
+	                            <a class="my_auth" href="/qi" target="_blank" data-stat-key="private_msg_verify">我要认证</a>
+                            </div>
+                        {{/if}}
+                        </i>
+                        {{/if}}
+                        <div title="{{if item.dep}}{{item.dep + ' - '}}{{/if}}{{item.post}}" class="vp_position {{if !item.name}}position_margin_top{{/if}}">{{if item.dep}}{{item.dep + ' - '}}{{/if}}{{item.post}}</div>
+						{{if item.cname}}<div class="vp_position vp_company">{{item.cname}}</div>{{/if}}
+                    </div>
+                </div>
+            </div>
+            <div class="vp_right ib">
+                {{if item.status == '0'}}
+                <img title="已私信" class="vp_person_status" src="https://static.intsig.net/bs/images/icon_mailed.png">
+                {{/if}}
+                <div class="btn blue_white vp_send_msg" data-name="{{item.name}}" data-auth_flag="{{item.auth_flag}}" data-head_icon="{{item.head_icon}}" data-position="{{item.post}}"
+                     data-id="{{item.cp_id}}" data-type="{{item.utype}}" data-cc_white_flag="{{item.cc_white_flag}}" data-stat-key="open_send_private_msg_dialog">私信</div>
+            </div>
+        </div>
+        {{/each}}
+        {{if show_more && pri != '1'}}
+        <a class="link claim_link" href="/qi" target="_blank" data-stat-key="private_msg_verify">我是该企业员工，{{if is_my_company}}我要认证加V{{else}}我要展示在这里{{/if}}</a>
+        {{/if}}
+    </div>
+    {{else}}
+    <div class="no_person_find">
+        <i class="icon_member"></i>
+        <div class="no_person_text">暂时无法找到对应的职位的企业员工</div>
+    </div>
+    {{/if}}
+</script>
+<script type="text/template" id="dialog_person_list">
+	<div class="contact_inner">
+		<div class="contact_title">
+			{{company_name}}
+		</div>
+		<div class="contact_vm_list">
+			<div sg-view="vm_person_list">
+				<param id="show_title" type="int" value="1" />
+				<param id="show_filter" type="int" value="1" />
+				<param id="show_more" type="int" value="0" />
+                <param id="total_num" type="int" value="{{data.contact_list_count}}" />
+                <param id="pri" type="int" value="{{data.user_pri || user_pri}}" />
+                <param id="id" value="{{data.id || id}}" />
+                <param id="data" type="json" value="{{stringify(data)}}" />
+			</div>
+		</div>
+	</div>
+</script>
+<script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=FF8e0b6177437f984150fb87099b4f2e"></script><div class="right_navigation_bar">
+	<div class="footer_advice_box go_back_top" data-stat-key="go_back_top">
+		<i class="icon_moveup"></i>
+		<p>置顶</p>
+	</div>
+	<div class="footer_advice_box guide_download_app" data-stat-key="guide_download_app">
+		<i class="icon_iphone2"></i>
+		<p>下载</p>
+		<div class="app_download_image_wrapper">
+			<div class="app_download_image"></div>
+			<p>扫描二维码下载APP</p>
+		</div>
+	</div>
+	<a class="footer_advice_box" target="_blank" href="http://form.mikecrm.com/f.php?t=8mkNhN" data-stat-key="suggest_feedback">
+		<i class="icon_message"></i>
+		<p>意见</p>
+	</a>
+</div>
+<!-- 滑动验证码 -->
+<script type="text/template" class="page" id="geetest_dialog_template">
+	<div class="geetest_dialog" id="geetest_dialog"></div>
+</script>
+<!-- 手机验证 -->
+<script type="text/template" id="mobile_verifiction_template">
+	<div class="verif_box">
+		<div class="verif_header">由于您操作频次过多，请验证手机号</div>
+		<label class="input_label">手机号</label>
+		<div class="input_wrapper first">
+			<input type="text" class="input_text account">
+			<div class="error_tip err_account"></div>
+		</div>
+		<div id="image_vcode_wrapper">
+			<label class="input_label">图片验证码</label>
+			<div class="input_wrapper">
+				<input type="text" class="input_text" id="input_image_vcode">
+				<img class="image_vcode" id="image_vcode">
+			</div>
+		</div>
+		<label class="input_label">验证码</label>
+		<div class="input_wrapper">
+			<div class="input_inner">
+				<div data-stat-key="get_mobile_verify_code" class="btn blue_white btn_get_code">发送验证码</div>
+				<div class="input_code">
+					<input type="text" class="input_text vcode">
+				</div>
+			</div>
+			<div class="error_tip err_vcode"></div>
+		</div>
+		<div class="btn_verify btn big" data-stat-key="verify_mobile">确认</div>
+	</div>
+</script><script type="text/javascript" src="https://static.intsig.net/bs/js/compressed/common_1500440191.js"></script>
+<script type="text/javascript" src="https://static.intsig.net/bs/js/compressed/company_index_1500422403.js"></script>
+<script nonce="b54aeece0da2fadc7abf1c6809955929" type="text/javascript">(function(){var bp=document.createElement('script');var curProtocol = window.location.protocol.split(':')[0];if(curProtocol === 'https'){bp.src='https://zz.bdstatic.com/linksubmit/push.js';}else{bp.src='http://push.zhanzhang.baidu.com/push.js';}var s=document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(bp, s);})();</script></body>
+</html>
